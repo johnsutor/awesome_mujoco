@@ -150,6 +150,7 @@ Eg:
 ### - Models: Arm
 - [Indy7](https://github.com/A2R-Lab/indy7-sdk) - [Indy7 + FT-Gripper](https://github.com/Joohwan-Seo/GUFIC_mujoco/tree/main/gufic_env/mujoco_models)
 - Doosan m1013 & m0609: [MJ Menagerie](https://github.com/google-deepmind/mujoco_menagerie/issues/175) - https://github.com/KisangPark/mujoco_practice
+- https://github.com/johnsutor/so101-nexus <img src="https://img.shields.io/github/stars/johnsutor/so101-nexus?style=flat-square&color=yellow">
 
 ### - Models: Bimanual
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha - https://aloha-2.github.io
