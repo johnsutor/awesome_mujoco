@@ -150,7 +150,7 @@ Eg:
 ### - Models: Arm
 - [Indy7](https://github.com/A2R-Lab/indy7-sdk) - [Indy7 + FT-Gripper](https://github.com/Joohwan-Seo/GUFIC_mujoco/tree/main/gufic_env/mujoco_models)
 - Doosan m1013 & m0609: [MJ Menagerie](https://github.com/google-deepmind/mujoco_menagerie/issues/175) - https://github.com/KisangPark/mujoco_practice
-- [SO-100/SO-101](https://github.com/TheRobotStudio/SO-ARM100)
+- [SO-100/SO-101](https://github.com/TheRobotStudio/SO-ARM100) - [MJ Menagerie](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotstudio_so101)
 
 ### - Models: Bimanual
 - https://github.com/google-deepmind/mujoco_menagerie/tree/main/aloha - https://aloha-2.github.io
@@ -499,7 +499,6 @@ Eg:
 ## RL: Arm/Hand
 - https://libero-project.github.io https://github.com/Lifelong-Robot-Learning/LIBERO <img src="https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO?style=flat-square&color=yellow">
 - https://github.com/ALRhub/d3il <img src="https://img.shields.io/github/stars/ALRhub/d3il?style=flat-square&color=yellow">
-- https://github.com/johnsutor/so101-nexus <img src="https://img.shields.io/github/stars/johnsutor/so101-nexus?style=flat-square&color=yellow">
 - https://github.com/MiYanDoris/GraspVLA-playground <img src="https://img.shields.io/github/stars/MiYanDoris/GraspVLA-playground?style=flat-square&color=yellow">
 - https://github.com/RROS-Lab/IROS2024-Bin-Packing <img src="https://img.shields.io/github/stars/RROS-Lab/IROS2024-Bin-Packing?style=flat-square&color=yellow">
 - https://github.com/google-deepmind/rgb_stacking <img src="https://img.shields.io/github/stars/google-deepmind/rgb_stacking?style=flat-square&color=yellow">
